@@ -1,1 +1,0 @@
-# Solar-Rooftop-Potential-Analyzer
